@@ -1,3 +1,4 @@
+# reference from https://gitlab.com/nvidia/cuda/blob/ubuntu18.04/10.1/devel/cudnn7/Dockerfile
 FROM nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04
 
 # Python 2.7 or 3.5 is supported by Ubuntu Xenial out of the box
